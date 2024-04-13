@@ -12,8 +12,8 @@ This is a Customer Relationship Management (CRM) system built using Django, desi
 1. Clone the repository:  
 https://github.com/DimitrisTsel/DjangoCRM.git
 
-2. Navigate to the project directory:
-4. Activate the virtual environment:
+2. Navigate to the project directory: `cd django-crm`
+3. Activate the virtual environment:
 - On Windows:
   ```
   venv\Scripts\activate
@@ -22,19 +22,19 @@ https://github.com/DimitrisTsel/DjangoCRM.git
   ```
   source venv/bin/activate
   ```
-5. Install dependencies:
+4. Install dependencies:
 `pip install -r requirements.txt`
 
-6. Apply database migrations:
+5. Apply database migrations:
 `python manage.py migrate`
 
-7. Create a superuser account:
+6. Create a superuser account:
    `python manage.py createsuperuser`
 
-8. Start the development server:
+7. Start the development server:
 `python manage.py runserver`
 
-9. Access the CRM application at `http://localhost:8000` in your web browser.
+8. Access the CRM application at `http://localhost:8000` in your web browser.
 
 ## Usage
 - **Admin Interface**: Access the Django admin interface at `/admin` to manage users, customers, leads, sales opportunities, tasks, etc.
