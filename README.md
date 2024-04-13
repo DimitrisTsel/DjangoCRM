@@ -12,7 +12,7 @@ This is a Customer Relationship Management (CRM) system built using Django, desi
 1. Clone the repository:  
 https://github.com/DimitrisTsel/DjangoCRM.git
 
-2. Navigate to the project directory: `cd django-crm`
+2. Navigate to the project directory: `cd dcrm`
 3. Activate the virtual environment:
 - On Windows:
   ```
