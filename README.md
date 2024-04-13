@@ -45,7 +45,7 @@ https://github.com/DimitrisTsel/DjangoCRM.git
 Contributions are welcome! Feel free to submit bug reports, feature requests, or pull requests.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/DimitrisTsel/DjangoCRM/tree/main?tab=MIT-1-ov-file#readme) file for details.
 
 ## Acknowledgements
 - [Django](https://www.djangoproject.com/): The web framework for perfectionists with deadlines.
