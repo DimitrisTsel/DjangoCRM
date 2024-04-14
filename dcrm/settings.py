@@ -13,8 +13,10 @@ SECRET_KEY = 'django-insecure-n%hcg-fk_4#27a$s*3y9v5j$mae6esbuo69&f9s7-g$k397&dw
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
-
+ALLOWED_HOSTS = [
+  'localhost',
+  '127.0.0.1',
+  'djangocrm-yu3y.onrender.com']
 
 # Application definition
 
