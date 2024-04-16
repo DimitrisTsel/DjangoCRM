@@ -1,6 +1,6 @@
 # Django CRM Project
 
-🚀 https://djangocrm-yu3y.onrender.com 
+🚀 https://djangocrm-yu3y.onrender.com/
 
 ## Overview
 This is a Customer Relationship Management (CRM) system built using Django, designed to manage interactions with current and potential customers. It provides user authentication and authorization system for users and administrators. It also provides functionalities for storing customer records, updating and deleting them.
